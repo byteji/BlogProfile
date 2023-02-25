@@ -1,2 +1,2 @@
-# FullWebBlog-
-FullWebBlog (bootstrap4+php+mysql)
+# Blog-Profile
+Blog-Profile (bootstrap4+php+mysql)
